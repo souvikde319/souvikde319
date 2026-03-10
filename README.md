@@ -5,6 +5,7 @@
 💻 Backend
 - Laravel
 - Node.js
+- Golang
 - REST APIs
 - MySQL
 - PostgreSQL
@@ -62,4 +63,4 @@
 
 ## 📊 GitHub Stats
 
-![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souvikde319&show_icons=true&theme=radical)
+ https://github-readme-stats.vercel.app/api?username=souvikde319&show_icons=true&theme=radical
