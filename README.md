@@ -5,7 +5,13 @@
 💻 Backend
 - Laravel
 - Node.js
-- Golang
+- Python
+- Fast Apis
+- Langchain
+- Langraph
+- RAG
+- MCP
+- Huggingface
 - REST APIs
 - MySQL
 - PostgreSQL
